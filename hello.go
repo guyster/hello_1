@@ -7,5 +7,5 @@ import (
 
 
 func main() {
-    fmt.Printf(stringtools.Reverse("\n.oG ,olleH\n"))
+    fmt.Printf(stringtools.Reverse("\nredro thgir ni oG olleH\n"))
 }
